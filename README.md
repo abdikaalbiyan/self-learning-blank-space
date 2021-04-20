@@ -7,6 +7,8 @@ This concept requires you to be able to explore all about JSON files, either a n
 You should be able to extract and clean the data from JSON files with huge JSON files.
 
 **Illustration Case:**&nbsp;
+
+
 <img width="348" alt="Screen Shot 2021-04-20 at 14 01 21" src="https://user-images.githubusercontent.com/22974798/115352001-0ba4df00-a1e1-11eb-9446-56c9568676c1.png">
 
 
@@ -21,6 +23,10 @@ You should be able to extract and clean the data from JSON files with huge JSON 
 
 
 ### Output
+
+<img width="565" alt="Screen Shot 2021-04-20 at 14 08 33" src="https://user-images.githubusercontent.com/22974798/115352793-f67c8000-a1e1-11eb-842a-b98a4edec8d7.png">
+<img width="563" alt="Screen Shot 2021-04-20 at 14 08 54" src="https://user-images.githubusercontent.com/22974798/115352810-f9777080-a1e1-11eb-9257-8f1cbb74f622.png">
+
 
 
 
