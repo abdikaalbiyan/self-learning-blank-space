@@ -6,7 +6,22 @@ But, as we know we have varied data so need to clean first before storing it in 
 This concept requires you to be able to explore all about JSON files, either a normal JSON or Nested JSON.&nbsp;
 You should be able to extract and clean the data from JSON files with huge JSON files.
 
+**Illustration Case:**&nbsp;
 <img width="348" alt="Screen Shot 2021-04-20 at 14 01 21" src="https://user-images.githubusercontent.com/22974798/115352001-0ba4df00-a1e1-11eb-9446-56c9568676c1.png">
+
+
+### Key Objective
+- Normal JSON Engineering (Extract, Transform)
+- Nested JSON Engineering (Extract, Transform)
+- Scalable Code
+
+
+### Challenge
+- Create a python code function that enables fetching data from JSON file with following fields requirements.
+
+
+### Output
+
 
 
 
