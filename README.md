@@ -79,4 +79,7 @@ Run project by typing thin on terminal with active virtualenv:
 Just wait for the progress bar to reach 100%
 
 
+<img width="710" alt="Screen Shot 2021-04-20 at 14 18 58" src="https://user-images.githubusercontent.com/22974798/115354128-7eaf5500-a1e3-11eb-8ab9-76fe3d2f6f92.png">
+
+
 ## DONE
