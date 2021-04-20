@@ -66,6 +66,17 @@ pip install -r requirements.txt
 
 Before do run command, configure **source_dir** and **jsonOutputFile** var on ```main.py```.
 
+```python
+source_dir = 'YOUR_DIR'
+jsonOutputFile = 'YOUR_OUTPUT.json'
+```
+
 Run project by typing thin on terminal with active virtualenv:
 
 >python main.py
+
+
+Just wait for the progress bar to reach 100%
+
+
+## DONE
